@@ -1,6 +1,6 @@
 # Code2LLM
 
-Code2LLM is a bash script that captures both the structure and content of your code so it can be processed by LLM
+Code2LLM is a bash script designed to capture both the structure and content of your code into a single file for processing by an LLM.
 
 ## Features
 
